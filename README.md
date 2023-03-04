@@ -9,6 +9,10 @@ Driver drowsiness detection system
 4) import scipy
 
 
+shape_predictor_68_face_landmarks.dat dlib.get_frontal_face_detector () is used in detecting the face in a frame or image.
+This can be downloaded from https://www.kaggle.com/datasets/sergiovirahonda/shape-predictor-68-face-landmarksdat
+
+
 ### Description:
 
 Python application to assist drivers to alert when they feel drowsy and thus reduce the number of accidents.
